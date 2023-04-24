@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Excel To Json</string>
+    <string name="select_options">Select Options</string>
+    <string name="confirm_button_text">Import</string>
 </resources>
